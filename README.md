@@ -1,3 +1,3 @@
-# FINAL PROJECT FOR MCS 548
+# Final project for MCS 548
 
 To be updated.
